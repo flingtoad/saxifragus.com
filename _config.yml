@@ -1,2 +1,6 @@
 title: Saxifragus
+description: Reflections on Minds, Machines, and Mindfulness
 theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
